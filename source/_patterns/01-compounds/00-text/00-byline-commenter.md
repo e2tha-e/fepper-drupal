@@ -4,7 +4,7 @@ content_key: content
 [Template](../../patterns/03-templates-00-page/03-templates-00-page.html) merge-conflict test
 
 Giving \"credit"
-were rode this \'nudes'
+were ode this \'nudes'
 ~*~
 ---
 el: .byline
